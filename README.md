@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/github/raunak96/reviews-strapi-apollo-client-backend.svg)](https://wakatime.com/badge/github/raunak96/reviews-strapi-apollo-client-backend)
 # Strapi application with GraphQL plugin
 
 -To start the backend application run:
