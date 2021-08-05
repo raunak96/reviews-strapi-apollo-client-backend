@@ -1,3 +1,9 @@
-# Strapi application
+# Strapi application with GraphQL plugin
 
-A quick description of your strapi application
+-To start the backend application run:
+```bash
+yarn develop
+```
+- This starts the server at `http://localhost:1337`.
+
+The **frontend** app can be found [here](https://github.com/raunak96/reviews-strapi-apollo-client-frontend).
